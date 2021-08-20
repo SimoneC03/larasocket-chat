@@ -16,5 +16,5 @@ Real-time chat application using Laravel 8.0, Vue and <a href="https://larasocke
 1. `php artisan serve`
 
 ## About Larasocket
-<a href="https://larasocket.com/">Larasocket</a> is a hosted, no configuration package for handling your broadcasting in your Laravel application.
+<a href="https://larasocket.com/">Larasocket</a> is a hosted, no configuration package for handling your broadcast connections in your Laravel application.
 
